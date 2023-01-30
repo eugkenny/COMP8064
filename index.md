@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ALGO 6007 - Data Structures & Algorithms"
+title: "COMP 8064 - Concurrent & Distributed Systems"
 ---
 <div class="container">
   <img src="{{site.baseurl}}/assets/images/splash6.jpg" style="width:100%;">
