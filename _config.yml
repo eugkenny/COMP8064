@@ -1,0 +1,22 @@
+title: "COMP 8064 - Concurrent & Distributred Systems"
+description: "Concurrent & Distributred Systems"
+
+url: "https://github.com/eugkenny/COMP8064" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/COMP8064" # the subpath of your site, e.g. /blog
+
+githublink: "https://github.com/eugkenny/COMP8064"
+githubdir: "eugkenny"
+
+# Author/user information
+email: eugkenny.lit@gmail.com
+# twitter_username: tweet_tweet
+github_username: eugkenny
+authorurl: "https://eugkenny.github.io"
+address:
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
+
+include: ['assets']
