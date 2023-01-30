@@ -4,8 +4,6 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-<!-- {% include image.html url="/_images/fabulous-sylvester.jpg" caption="blah" width=300 align="right" %} -->
-
 ## Old Formal Exams
 
 <ul id="archive">
