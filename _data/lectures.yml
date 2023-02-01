@@ -3,8 +3,27 @@
 #  dirname: untitled-lecture
 #  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
 
-#- title: "Lecture 1: Graphs"
-#  filename: Algs - Lecture 01 - Graph Theory.pdf
-#  dirname: lectures
-#  tldr: "Basic concept of graphs, Graph representation"
+- title: "Lecture 1: Introduction"
+  filename: 01 - Introduction.pdf
+  dirname: lectures
+  tldr: "Concurrent vs Sequeential Programs, Implementations of Concurrency"
 
+- title: "Lecture 2: Processes & Threads"
+  filename: 02 - Processes Threads.pdf
+  dirname: lectures
+  tldr: "Thread lifecycle"
+
+- title: "Lecture 3: Synchronisation"
+  filename: 03 - Synchronisation.pdf
+  dirname: lectures
+  tldr: "Interleavings, Interference, Mutual Exclusion"
+
+- title: "Lecture 4: Atomic Actions"
+  filename: 04 - Atomic Actions.pdf
+  dirname: lectures
+  tldr: "Fine-grained vs Course-grained Atomic Actions, Mutual Exclusion Protocols"
+
+- title: "Lecture 5: Algorithms for Mutual Exclusion"
+  filename: 05 - Mutex Algorithms.pdf
+  dirname: lectures
+  tldr: "Spin Locks, Mutual Exclusion with Standard Instructions, Petersons Algorithm"
