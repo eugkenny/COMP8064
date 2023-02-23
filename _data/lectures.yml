@@ -27,3 +27,18 @@
   filename: 05 - Mutex Algorithms.pdf
   dirname: lectures
   tldr: "Spin Locks, Mutual Exclusion with Standard Instructions, Petersons Algorithm"
+
+- title: "Lecture 6: Semaphores"
+  filename: 06 - Semaphores.pdf
+  dirname: lectures
+  tldr: "Semaphores for Mutual Exclusion & Condition Synchronisation, Producer-Consumer problems"
+
+- title: "Lecture 7: Monitors"
+  filename: 07 - Monitors.pdf
+  dirname: lectures
+  tldr: "Monitors, Readers & Writers Problem"
+
+- title: "Lecture 8: Synchronisation in Java"
+  filename: 08 - Synchronisation in Java.pdf
+  dirname: lectures
+  tldr: "Java support for Mutual Exclusion & Synchronisation"
