@@ -42,3 +42,39 @@
   filename: 08 - Synchronisation in Java.pdf
   dirname: lectures
   tldr: "Java support for Mutual Exclusion & Synchronisation"
+
+- title: "Lecture 9: Introduction to Distributed Systems"
+  filename: 09 - Introduction to Distributed Systems.pdf
+  dirname: lectures
+  tldr: 
+
+- title: "Lecture 10: Distributed Systems Architecture"
+  filename: 10 - Architecture.pdf
+  dirname: lectures
+  tldr: 
+
+- title: "Lecture 11: Processes"
+  filename: 11 - Processes.pdf
+  dirname: lectures
+  tldr: 
+
+- title: "Lecture 12: Communication.pdf"
+  filename: 12 - Communication.pdf
+  dirname: lectures
+  tldr: 
+
+- title: "Lecture 13: Naming.pdf"
+  filename: 13 - Naming.pdf
+  dirname: lectures
+  tldr: 
+
+- title: "Lecture 14: Synchronisation"
+  filename: 14 - Syncronization.pdf
+  dirname: lectures
+  tldr: 
+
+
+- title: "Lecture 15: Consistency Replication.pdf"
+  filename: 15 - Consistency Replication.pdf
+  dirname: lectures
+  tldr: 
