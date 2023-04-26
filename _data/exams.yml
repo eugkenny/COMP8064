@@ -1,6 +1,4 @@
-- title: "Concurrent & Distributed Systems"
-  filename: 
-  dirname: 
+- title: "CONCURRENT & DISTRIBUTED SYSTEMS"
 
 - title: "Summer 2020"
   filename: CDS - Summer 20.pdf
@@ -10,9 +8,7 @@
   filename: CDS - Summer 19.pdf
   dirname: pastExams
 
-- title: "Concurrent Algorithms"
-  filename: 
-  dirname: 
+- title: "CONCURRENT ALGORITHMS"
 
 - title: "Winter 2017"
   filename: CA-Winter17.pdf
@@ -22,9 +18,7 @@
   filename: CA-Winter16.pdf
   dirname: pastExams
 
-- title: "Distributed Algorithms"
-  filename: 
-  dirname: 
+- title: "DISTRIBUTED ALGORITHMS"
 
 - title: "Summer 2018"
   filename: DA - Summer18.pdf
